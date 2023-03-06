@@ -1,0 +1,3 @@
+use sakila;
+
+SELECT * FROM ACTOR WHERE ACTOR_ID> 90
